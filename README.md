@@ -1,5 +1,5 @@
 # Credit Risk Modeling
-              
+                
 Credit risk modeling using machine learning is a technique lenders use, to find out the level of credit risk, related to extending credit to a borrower. Organizations use credit risk modeling using ML, including insurance corporations, banks, investment enterprises, and government treasuries. Sometimes, individual people use credit risk modeling to loan away their own money strategically. Credit risk modeling is crucial anywhere people are borrowing money. Machine Learning models are being used to protect against increasingly sophisticated fraud attempts.  
       
 ## Extreme Gradient Boosting (XGBoost) algorithm
