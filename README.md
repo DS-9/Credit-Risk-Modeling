@@ -11,3 +11,4 @@ Fit the new tree to the residuals and add the predicted values from this tree to
 Repeat steps 2 and 3 for a fixed number of iterations or until the performance on a hold-out validation set stops improving.
 Combine the predictions from all trees to make a final prediction.
   
+  
