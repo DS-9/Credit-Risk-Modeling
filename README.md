@@ -5,7 +5,7 @@ This project focuses on credit risk modeling using machine learning techniques. 
 ## Technologies:  
 1. Python programming language
 2. Data manipulation and analysis libraries: NumPy, Pandas, Matplotlib, Seaborn  
-3. Machine learning libraries: Scikit-learn, XGBoost
+3. Machine learning libraries: Scikit-learn, XGBoost  
 4. Interactive data visualization: Plotly
         
 ## Accomplishments:
