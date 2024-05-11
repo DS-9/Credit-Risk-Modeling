@@ -1,6 +1,6 @@
 # Credit Risk Modeling
                         
-This project focuses on credit risk modeling using machine learning techniques. The key technologies and accomplishments are:
+This project focuses on credit risk modeling using machine learning techniques. The key technologies and accomplishments are:  
     
 ## Technologies:  
 1. Python programming language
