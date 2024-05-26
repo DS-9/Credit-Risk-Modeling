@@ -8,7 +8,7 @@ This project focuses on credit risk modeling using machine learning techniques. 
 3. Machine learning libraries: Scikit-learn, XGBoost  
 4. Interactive data visualization: Plotly
     
-                    
+                      
 ## Accomplishments:
 1. Performed data cleaning and feature engineering on a credit risk dataset to prepare it for modeling.
 2. Conducted exploratory data analysis (EDA) to gain insights into the dataset and visualize the relationships between features and loan status.
